@@ -1,6 +1,6 @@
 # SNMP-plugin-for-Snort_2.9.17
 [SnortSNMP Plugin](https://www.cysol.co.jp/contrib/snortsnmp/index.html)をSnortのバージョン2.9.17でも動かせるように改修したものです。
-本Pluginの著作権者はCyber Solutions Inc.であり、私はPluginのソースコードを少し改修しただけです。
+本Pluginの著作権者はCyber Solutions Inc.であり、私はMakefileとソースコードを少し改修しただけです。
 
 ## Guide
 The SnortSNMP Guide: https://www.cysol.co.jp/contrib/snortsnmp/snortSnmpGuide.html
